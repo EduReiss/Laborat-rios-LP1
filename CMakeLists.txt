@@ -10,3 +10,4 @@ add_executable(S2_Lab2 Semana2_Part1_Lab2.c)
 add_executable(S2_Lab3 Semana2_Part1_Lab3.c)
 
 add_executable(S1_Lab1 Semana1_Lab1.c)
+add_executable(S1_Lab2 Semana1_Lab2.c)
